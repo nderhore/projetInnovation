@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mspr_informatique" uuid="c4a7524b-aefa-445d-b1c0-4b9b3f8a8732">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://nas.derhore.fr:4965/postgres</jdbc-url>
+    </data-source>
+  </component>
+</project>
