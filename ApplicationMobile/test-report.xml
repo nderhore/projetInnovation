@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\Home.test.js">
+    <testCase name="Tests d&apos;intégration HomePage Le titre est présent sur la page d&apos;accueil" duration="17"/>
+    <testCase name="Tests d&apos;intégration HomePage Le bouton pour lister les promotions est présent" duration="5"/>
+    <testCase name="Tests d&apos;intégration HomePage Le bouton pour scanner le Qr Code est présent" duration="4"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\Home.test.js">
+    <testCase name="Tests d&apos;intégration HomePage Le titre est présent sur la page d&apos;accueil" duration="24"/>
+    <testCase name="Tests d&apos;intégration HomePage Le bouton pour lister les promotions est présent" duration="3"/>
+    <testCase name="Tests d&apos;intégration HomePage Le bouton pour scanner le Qr Code est présent" duration="2"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\ListPromotion.test.js">
+    <testCase name="Tests d&apos;intégration liste des promotions Le titre est présent sur la page de la liste des promotions" duration="12"/>
+    <testCase name="Tests d&apos;intégration liste des promotions Le bouton retour sur la page d&apos;accueil est présent sur la page liste des promotions" duration="2"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\Promotion.test.js">
+    <testCase name="Tests d&apos;intégration sur une promotion Le titre est présent sur la page d&apos;une promotion" duration="33"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le bouton retour sur la page d&apos;accueil est présent sur la page promotion" duration="3"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ description est présent sur la page promotion" duration="2"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ date début est présent sur la page promotion" duration="6"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ date fin est présent sur la page promotion" duration="7"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ pourcentage est présent sur la page promotion" duration="4"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\Promotion.test.js">
+    <testCase name="Tests d&apos;intégration sur une promotion Le titre est présent sur la page d&apos;une promotion" duration="5"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le bouton retour sur la page d&apos;accueil est présent sur la page promotion" duration="2"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ description est présent sur la page promotion" duration="1"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ date début est présent sur la page promotion" duration="2"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ date fin est présent sur la page promotion" duration="1"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ pourcentage est présent sur la page promotion" duration="2"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\Home.test.js">
+    <testCase name="Tests d&apos;intégration HomePage Le titre est présent sur la page d&apos;accueil" duration="4"/>
+    <testCase name="Tests d&apos;intégration HomePage Le bouton pour lister les promotions est présent" duration="2"/>
+    <testCase name="Tests d&apos;intégration HomePage Le bouton pour scanner le Qr Code est présent" duration="2"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\Promotion.test.js">
+    <testCase name="Tests d&apos;intégration sur une promotion Le titre est présent sur la page d&apos;une promotion" duration="9"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le bouton retour sur la page d&apos;accueil est présent sur la page promotion" duration="3"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ description est présent sur la page promotion" duration="2"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ date début est présent sur la page promotion" duration="2"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ date fin est présent sur la page promotion" duration="3"/>
+    <testCase name="Tests d&apos;intégration sur une promotion Le champ pourcentage est présent sur la page promotion" duration="2"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\ListPromotion.test.js">
+    <testCase name="Tests d&apos;intégration liste des promotions Le titre est présent sur la page de la liste des promotions" duration="4"/>
+    <testCase name="Tests d&apos;intégration liste des promotions Le bouton retour sur la page d&apos;accueil est présent sur la page liste des promotions" duration="2"/>
+  </file>
+  <file path="C:\Users\arthu\Desktop\mspr-informatique\mspr-informatique-front\src\__tests__\ListPromotion.test.js">
+    <testCase name="Tests d&apos;intégration liste des promotions Le titre est présent sur la page de la liste des promotions" duration="5"/>
+    <testCase name="Tests d&apos;intégration liste des promotions Le bouton retour sur la page d&apos;accueil est présent sur la page liste des promotions" duration="2"/>
+  </file>
+</testExecutions>
